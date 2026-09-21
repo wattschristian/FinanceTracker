@@ -36,7 +36,7 @@ Pending transactions are held back until they post, so amounts never shift under
 ## Quick start
 
 ```bash
-git clone <your-repo-url> finance-sync
+git clone [<your-repo-url>](https://github.com/wattschristian/FinanceTracker.git) finance-sync
 cd finance-sync
 ./run.sh --demo          # Windows: run.bat --demo
 ```
